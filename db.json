@@ -1,0 +1,19 @@
+{
+    "books": [
+      { "id": 1, "title": "Libro 1", "fecha": "01/01/2021" },
+      { "id": 2, "title": "Libro 2", "fecha": "20/12/2020" },
+      { "id": 3, "title": "Libro 3", "fecha": "15/02/2019" },
+      { "id": 5, "title": "Libro 4", "fecha": "15/10/2018" },
+      { "id": 6, "title": "Libro 5", "fecha": "25/12/2017" }
+    ],
+    "comments": [
+      { "id": 1, "body": "some comment 1", "bookId": 1 },
+      { "id": 2, "body": "some comment 2", "bookId": 2 },
+      { "id": 3, "body": "some comment 3", "bookId": 3 },
+      { "id": 4, "body": "some comment 4", "bookId": 5 },
+      { "id": 5, "body": "some comment 5", "bookId": 2 }
+    ],
+    "profile": {
+      "name": "Denis Vasquez"
+    }
+  }
